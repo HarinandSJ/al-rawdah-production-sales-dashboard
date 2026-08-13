@@ -1,6 +1,6 @@
 # Al Rawdah - Production & Sales Performance Dashboard
 
-![Dashboard Overview](Screenshot%202026-08-13%20180316.png)
+![Dashboard Overview](Screenshot%202026-08-13%20200015.png)
 
 ## 📌 Business Overview & Objective
 Al Rawdah requires end-to-end visibility across its manufacturing efficiency, commercial revenue, and operational sustainability. The objective of this Power BI report is to track key performance indicators (KPIs) across three main pillars:
@@ -26,7 +26,7 @@ Al Rawdah requires end-to-end visibility across its manufacturing efficiency, co
 ---
 
 ### Page 2: Production Analysis
-![Production Analysis](Screenshot%202026-08-13%20180454.png)
+![Production Analysis](Screenshot%202026-08-13%20200042.png)
 
 * **Key Metrics:**
   * **Total Volume:** 22M Bottles Produced
@@ -40,7 +40,7 @@ Al Rawdah requires end-to-end visibility across its manufacturing efficiency, co
 ---
 
 ### Page 3: Sales Overview
-![Sales Overview](Screenshot%202026-08-13%20180524.png)
+![Sales Overview](Screenshot%202026-08-13%20200111.png)
 
 * **Key Metrics:**
   * **Total Revenue:** AED 43.01M
@@ -54,7 +54,7 @@ Al Rawdah requires end-to-end visibility across its manufacturing efficiency, co
 ---
 
 ### Page 4: Operational Performance & Logistics
-![Operation Performances](Screenshot%202026-08-13%20180648.png)
+![Operation Performances](Screenshot%202026-08-13%20200139.png)
 
 * **Key Metrics:**
   * **Total Downtime:** 41.88 Days
